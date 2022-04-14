@@ -12,6 +12,7 @@ Hola a todos
 </div>
   
   ##
+  ![](https://komarev.com/ghpvc/?username=MADGRISMAD)
  
 <div> 
   <a href="https://www.youtube.com/channel/UCIRSQs8ryJiG4CJkFiJilOQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
