@@ -7,7 +7,21 @@ Hola a todos
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MADGRISMAD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+- 🔭 I’m currently working on **Building a portfolio**
 
+- 🌱 I’m currently learning **CSS, HTML JAVASCRIPT and C#**
+
+- 👯 I’m looking to collaborate on **public c# projects and game bots**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MADGRISMAD?tab=repositories](https://github.com/MADGRISMAD?tab=repositories)
+
+- 📫 How to reach me **madgrismad@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/MADGRISMAD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madeline sabino" height="30" width="40" /></a>
+<a href="https://discord.gg/v2XkAyXQcU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v2XkAyXQcU" height="30" width="40" /></a>
+</p>
   
   ##
   ![](https://komarev.com/ghpvc/?username=MADGRISMAD&color=ff69b4)
