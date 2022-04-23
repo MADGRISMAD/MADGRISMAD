@@ -1,5 +1,9 @@
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F785DE&center=true&lines=Hola%2C+Soy+Madeline;hi%2C+i'm+madeline)](https://git.io/typing-svg)
+
+
 <div align="center">
-Hola soy madeline
+
 
 ![](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 </div>
