@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **CSS, HTML JAVASCRIPT and C#**
 
-- 👯 I’m looking to collaborate on **public Front End projects and game bots**
+- 👯 I’m looking to collaborate on **public Front End projects and game bots and public proyects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MADGRISMAD?tab=repositories](https://github.com/MADGRISMAD?tab=repositories)
 
