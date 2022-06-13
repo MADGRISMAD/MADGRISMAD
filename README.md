@@ -39,3 +39,4 @@
 
 
   </div>
+  ![Snake animation](https://github.com/MADGRISMAD/MADGRISMAD/blob/output/github-contribution-grid-snake.svg)
