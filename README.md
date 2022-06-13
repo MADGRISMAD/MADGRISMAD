@@ -22,9 +22,9 @@
 
 
 ### Un poco de mi!💖  
-Hola, soy madeline, soy una estudiante del 4to semestre en el instituto tecnologico de tijuana, tengo 24 años actualmente me encuentro cursando el 5to semestre en la carrera de ingenieria en sistemas computacionales, me encantaria colaborar en proyectos publicos para poder reforzar mis conocimientos en la carrera, puedes contactarme en cualquiera de los link arriba
+Hola, soy madeline, soy una estudiante en el instituto tecnologico de tijuana, tengo 24 años actualmente me encuentro cursando el 5to semestre en la carrera de ingenieria en sistemas computacionales, me encantaria colaborar en proyectos publicos para poder reforzar mis conocimientos en la carrera, puedes contactarme en cualquiera de los link arriba
 ### About me!💖  
-Hi, I'm Madeline, I'm a 4th semester student at the Tijuana Institute of Technology, I'm 24 years old, I'm currently in my 5th semester of Computer Systems Engineering, I'd love to collaborate on public projects to reinforce my knowledge, you can contact me at any of the links above 
+Hi, I'm Madeline, I'm a student at the Tijuana Institute of Technology, I'm 24 years old, I'm currently in my 5th semester of Computer Systems Engineering, I'd love to collaborate on public projects to reinforce my knowledge, you can contact me at any of the links above 
 
 <br/>  
 
