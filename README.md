@@ -28,7 +28,7 @@ Hi, I'm Madeline, I'm a student at the Tijuana Institute of Technology, I'm 24 y
 
 <br/>  
 
-
+.
 ## Sobre mis proyectos!  
 <table><tr><td valign="top" width="50%">
 
