@@ -61,7 +61,6 @@ Hi, I'm Madeline, I'm a student at the Tijuana Institute of Technology, I'm 24 y
 </div>
 <br/>  
 
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
