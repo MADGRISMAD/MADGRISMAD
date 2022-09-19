@@ -19,7 +19,7 @@
 </div>  
   
 
-.
+
 
 ### Un poco de mi!💖  
 Hola, soy madeline, soy una estudiante en el instituto tecnologico de tijuana, tengo 24 años actualmente me encuentro cursando el 5to semestre en la carrera de ingenieria en sistemas computacionales, me encantaria colaborar en proyectos publicos para poder reforzar mis conocimientos en la carrera, puedes contactarme en cualquiera de los link arriba
