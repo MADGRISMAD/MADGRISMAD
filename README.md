@@ -1,83 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F785DE&width=500&lines=Hola%2C+Soy+Madeline%2C+desarrolladora+FrontEnd;Hi%2C+I'm+Madeline%2C+FrontEnd+Developer)](https://git.io/typing-svg)
+<!-- Header Section -->
+<p align="center">
+  <img src="https://i.imgur.com/dRb3NiT.png" alt="Madeline" width="150" height="150">
+</p>
 
-<a href="https://linkedin.com/in/madgrismad" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/MADGRISMAD" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/madgrismad" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/MADGRISMAD" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+<h1 align="center">Hola, Soy Madeline</h1>
+<p align="center">Desarrolladora FrontEnd</p>
 
-<div align="right">
-<img src="https://i.imgur.com/dRb3NiT.png" align="right" height="150" width="150" />
-</div>  
-  
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/madgrismad" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://www.facebook.com/MADGRISMAD" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
+  </a>
+  <a href="https://instagram.com/madgrismad" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  </a>
+  <a href="https://github.com/MADGRISMAD" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github">
+  </a>
+</p>
 
+<!-- About Me Section -->
+## Sobre mí
+Hola, soy Madeline, una apasionada desarrolladora FrontEnd. Actualmente, me enfoco en crear experiencias de usuario impactantes y atractivas.
 
+<!-- Project and Learning Section -->
+## Proyectos y Aprendizaje
+- 🔭 Actualmente trabajo en **proyectos FrontEnd innovadores**.
+- 🌱 Estoy aprendiendo **Express y MongoDB** para expandir mis habilidades.
+- 👯 Busco colaborar en **proyectos públicos de FrontEnd, bots para juegos y cualquier proyecto emocionante**.
+- 📫 Puedes contactarme a través de **madgrismad@gmail.com**.
 
-<br/>  
-
-
-## Sobre mis proyectos!  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on **    focus on work **  
-  
-
-- 🌱 I’m currently learning **express & mongo**  
-  
-
-- 👯 I’m looking to collaborate on **public Front End projects and game bots and public proyects**  
-  
-
-- 📫 How to reach me **madgrismad@gmail.com**  
-  
-- 👨‍💻 All of my projects are available at [https://github.com/MADGRISMAD?tab=repositories](https://github.com/MADGRISMAD?tab=repositories)
-
-</td><td valign="top" width="50%">
-
+<!-- GitHub Stats Section -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-<div >
-  
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MADGRISMAD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=7&theme=dracula"/>
-  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MADGRISMAD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br/>  
 
-## Languages and Tools  
+<!-- Skills Section -->
+## Lenguajes y Herramientas
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" style="margin: 10px" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" style="margin: 10px" />  
 </div>  
-<br/>  
 
-</td></tr></table>   
-
-
-<div >
-<br>
- 
- ![Snake animation](https://github.com/MADGRISMAD/MADGRISMAD/blob/output/github-contribution-grid-snake.svg)
- </div>
-  
+<!-- GitHub Contribution Graph Snake Animation -->
+<div align="center">
+  <br>
+  <img src="https://github.com/MADGRISMAD/MADGRISMAD/blob/output/github-contribution-grid-snake.svg">
+  <br>
+</div>
