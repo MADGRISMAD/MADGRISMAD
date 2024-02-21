@@ -36,7 +36,7 @@ Hola, soy Madeline, una apasionada desarrolladora FrontEnd. Actualmente, me enfo
 <!-- GitHub Stats Section -->
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MADGRISMAD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=12&theme=dracula"/>
 </div>
 
 <!-- Skills Section -->
