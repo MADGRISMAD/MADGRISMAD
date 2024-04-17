@@ -35,9 +35,8 @@ Hola, soy Madeline, una apasionada desarrolladora FrontEnd. Actualmente, me enfo
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://stats.quine.sh/MADGRISMAD/github?theme=dark">
-  <img src="https://stats.quine.sh/MADGRISMAD/languages-over-time?theme=dark" width="420">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=12&theme=dracula"  width="400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MADGRISMAD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&langs_count=12&theme=dracula"/>
   
 </div>
 
