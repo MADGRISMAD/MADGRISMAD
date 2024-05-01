@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://i.imgur.com/dRb3NiT.png" alt="Madeline" width="150" height="150">
+  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Vue/Vue.png?raw=true" alt="Madeline" >
 </p>
 
 <h1 align="center">Hola, Soy Madeline</h1>
