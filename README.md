@@ -24,7 +24,7 @@
 
 <!-- About Me Section -->
 ## Sobre mí
-Hola, soy Madeline, una apasionada desarrolladora FrontEnd. Actualmente, me enfoco en crear experiencias de usuario impactantes y atractivas.
+Hola, soy Manuel, un apasionado desarrollador FrontEnd. Actualmente, me enfoco en crear experiencias de usuario impactantes y atractivas.
 
 <!-- Project and Learning Section -->
 ## Proyectos y Aprendizaje
