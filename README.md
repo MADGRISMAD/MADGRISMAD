@@ -1,7 +1,5 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Vue/Vue.png?raw=true" alt="Madeline" >
-</p>
+
 
 <h1 align="center">Hola, Soy Manuel</h1>
 <p align="center">Desarrollador FrontEnd</p>
