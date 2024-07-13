@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png" alt="Banner" width="50%">
   <h1>Hola, Soy Manuel 👋</h1>
   <h3>Desarrollador FrontEnd Apasionado | Ingeniero de Software</h3>
 </div>
