@@ -1,18 +1,18 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png" alt="Banner" width="50%">
-  <h1>Hola, Soy Manuel Sabino Andrés 👋</h1>
-  <h3>DevOps Engineer Certificado | Desarrollador FrontEnd</h3>
+  <h1>Hola, Soy Madeline Sabino 👋</h1>
+  <h3>DevOps Engineer Certificada | Desarrolladora FrontEnd</h3>
 </div>
 
 ## 🚀 Sobre mí
 
-Soy un ingeniero DevOps certificado con experiencia en automatización de infraestructura, pipelines de CI/CD, y soluciones en la nube con Azure. Mi enfoque está en optimizar flujos de trabajo y automatizar despliegues para crear aplicaciones escalables y eficientes. Además, tengo una sólida base en desarrollo frontend, combinando diseño innovador con código de alto rendimiento para crear experiencias de usuario atractivas.
+Soy una ingeniera DevOps certificada con experiencia en automatización de infraestructura, pipelines de CI/CD y soluciones en la nube con Azure. Me interesa el desarrollo de **código de bajo nivel** y la optimización de rendimiento en aplicaciones web y sistemas distribuidos. Además, tengo una sólida base en desarrollo frontend, combinando diseño innovador con código de alto rendimiento para crear experiencias de usuario atractivas.
 
 - 🔭 Actualmente trabajo en **proyectos innovadores de DevOps y FrontEnd**.
-- 🌱 Estoy aprendiendo **Rust con Tauri** y explorando el stack **FARM (FastAPI, React, MongoDB)**.
-- 👯 Busco colaborar en **proyectos de DevOps, aplicaciones de escritorio con Tauri, y desarrollo web full-stack**.
+- 🌱 Estoy aprendiendo **Rust, Go y WebAssembly** para mejorar mis habilidades en programación de bajo nivel.
+- 👯 Busco colaborar en **proyectos de DevOps, sistemas de alto rendimiento y desarrollo web full-stack**.
 - 💬 Pregúntame sobre **Azure, CI/CD, automatización con PowerShell, o desarrollo con .NET Core y JavaScript**.
-- 🎓 Certificado en **Microsoft Azure Fundamentals (AZ-900)**.
+- 🎓 Certificada en **Microsoft Azure Fundamentals (AZ-900)**.
 - 📫 Contáctame: **madgrismad@gmail.com**.
 
 ## 🛠️ Habilidades Técnicas
@@ -20,11 +20,13 @@ Soy un ingeniero DevOps certificado con experiencia en automatización de infrae
 <div align="center">
 
 ### Lenguajes de Programación
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/webassembly-%236764FF.svg?style=for-the-badge&logo=webassembly&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks y Librerías
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -69,7 +71,7 @@ Soy un ingeniero DevOps certificado con experiencia en automatización de infrae
 
 ## 📫 Contacto
 
-¿Interesado en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
+¿Interesada en colaborar o tienes alguna pregunta? ¡No dudes en contactarme!
 
 <div align="center">
   <a href="mailto:madgrismad@gmail.com"><img src="https://img.shields.io/badge/-Envíame%20un%20email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
