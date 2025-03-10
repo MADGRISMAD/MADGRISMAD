@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/tailwind%20css/Tailwindcss.png" alt="Banner" width="50%">
-  <h1>Hola, Soy Madeline Sabino 👋</h1>
-  <h3>DevOps Engineer Certificada | Desarrolladora FrontEnd</h3>
+  <h1>Hola, Soy Manuel Sabino 👋</h1>
+  <h3>DevOps Engineer Certificado | Desarrollador FrontEnd</h3>
 </div>
 
 ## 🚀 Sobre mí
 
-Soy una ingeniera DevOps certificada con experiencia en automatización de infraestructura, pipelines de CI/CD y soluciones en la nube con Azure. Me interesa el desarrollo de **código de bajo nivel** y la optimización de rendimiento en aplicaciones web y sistemas distribuidos. Además, tengo una sólida base en desarrollo frontend, combinando diseño innovador con código de alto rendimiento para crear experiencias de usuario atractivas.
+Soy una ingeniero DevOps certificado con experiencia en automatización de infraestructura, pipelines de CI/CD y soluciones en la nube con Azure. Me interesa el desarrollo de **código de bajo nivel** y la optimización de rendimiento en aplicaciones web y sistemas distribuidos. Además, tengo una sólida base en desarrollo frontend, combinando diseño innovador con código de alto rendimiento para crear experiencias de usuario atractivas.
 
 - 🔭 Actualmente trabajo en **proyectos innovadores de DevOps y FrontEnd**.
 - 🌱 Estoy aprendiendo **Rust, Go y WebAssembly** para mejorar mis habilidades en programación de bajo nivel.
