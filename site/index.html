@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Manuel Sabino — DevOps · AdTech · Automation</title>
+  <meta name="description" content="Portafolio interactivo de Manuel Sabino: DevOps, automatización AdTech, soporte N2 y desarrollo frontend.">
+  <meta name="theme-color" content="#06060f">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2306060f'/%3E%3Cpath d='M6 24V8l10 10L26 8v16' fill='none' stroke='%23a78bfa' stroke-width='3' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <canvas id="bg" aria-hidden="true"></canvas>
+  <div class="parallax-layers" aria-hidden="true">
+    <span class="blob b1" data-speed="0.15"></span>
+    <span class="blob b2" data-speed="0.35"></span>
+    <span class="blob b3" data-speed="0.55"></span>
+    <span class="grid"></span>
+  </div>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+  <nav class="nav">
+    <a class="logo" href="#top" aria-label="Inicio">MS<span>.</span></a>
+    <div class="links">
+      <a href="#about">Sobre mí</a>
+      <a href="#experience">Experiencia</a>
+      <a href="#skills">Skills</a>
+      <a href="#wins">Logros</a>
+      <a href="#projects">Proyectos</a>
+      <a href="#contact" class="cta">Contacto</a>
+    </div>
+  </nav>
+
+  <header id="top" class="hero section">
+    <div class="hero-copy" data-speed="-0.08">
+      <p class="eyebrow"><span class="dot"></span> Tijuana, México · Disponible para colaborar</p>
+      <h1>
+        <span class="line"><span>Manuel</span></span>
+        <span class="line"><span class="grad">Sabino</span></span>
+      </h1>
+      <p class="terminal" aria-live="polite"><span class="prompt">$</span> <span id="typed"></span><span class="caret"></span></p>
+      <p class="lead">Convierto operaciones repetitivas en flujos confiables: automatización AdTech, pipelines CI/CD, infraestructura en la nube y herramientas internas que la gente sí quiere usar.</p>
+      <div class="hero-actions">
+        <a class="btn primary" href="#projects">Ver proyectos</a>
+        <a class="btn ghost" href="#contact">Hablemos</a>
+      </div>
+    </div>
+    <a class="scroll-hint" href="#about" aria-label="Bajar"><span></span></a>
+  </header>
+
+  <section id="about" class="section">
+    <div class="wrap grid-2">
+      <div class="reveal">
+        <h2 class="title"><small>01 / Sobre mí</small>Ingeniería que se nota <em>en la operación</em>.</h2>
+        <p>Soy Ingeniero en Sistemas Computacionales por el Instituto Tecnológico de Tijuana. He pasado por soporte técnico, DevOps, desarrollo frontend y AdTech, y esa mezcla me deja ver un problema desde el ticket del cliente hasta el pipeline que lo despliega.</p>
+        <p>Hoy me enfoco en <strong>soporte N2 y automatización en Kargo</strong>: leer el comportamiento de red y APIs, convertirlo en automatizaciones mantenibles y dejar herramientas lo bastante simples para que gente no técnica las ejecute con seguridad.</p>
+      </div>
+      <div class="stats reveal" data-speed="0.05">
+        <div class="stat tilt"><b data-count="700" data-suffix="+">0</b><span>incidentes resueltos en Jira</span></div>
+        <div class="stat tilt"><b data-count="5000" data-suffix="+">0</b><span>activos gestionados en SAP</span></div>
+        <div class="stat tilt"><b data-count="3">0</b><span>podios en hackathons</span></div>
+        <div class="stat tilt"><b data-count="60" data-prefix="$" data-suffix="K">0</b><span>MXN · 1er lugar Renaissance</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="experience" class="section">
+    <div class="wrap">
+      <h2 class="title reveal"><small>02 / Experiencia</small>Línea de tiempo</h2>
+      <ol class="timeline">
+        <li class="reveal">
+          <time>2024 — Presente</time>
+          <div class="card tilt">
+            <h3>Especialista de Soporte Técnico N2 <span>Kargo</span></h3>
+            <p>Diagnóstico por logs, configuraciones y pruebas; escalación clara a ingeniería; coordinación con ventas, cuentas y producto; documentación de cada caso resuelto.</p>
+            <div class="tags"><i>Tickets</i><i>APIs</i><i>VBX</i><i>CTV</i><i>Automatización</i></div>
+          </div>
+        </li>
+        <li class="reveal">
+          <time>2024 — 2025</time>
+          <div class="card tilt">
+            <h3>AdTech / DevOps Engineer <span>Enroute Systems</span></h3>
+            <p>Soluciones AdTech integradas, stack de analítica con Snowflake + Looker + Grafana, scripts en Python/PowerShell y pipelines en Azure DevOps que reducen el tiempo a producción.</p>
+            <div class="tags"><i>Snowflake</i><i>Grafana</i><i>Azure DevOps</i><i>KQL</i><i>Python</i></div>
+          </div>
+        </li>
+        <li class="reveal">
+          <time>2023 — 2024</time>
+          <div class="card tilt">
+            <h3>Software Engineer / DevOps <span>Santander</span></h3>
+            <p>IaC con Python y C# en Azure DevOps, scripts PowerShell que eliminan intervención manual y pipelines CI/CD para APIs .NET Core con despliegues sin downtime.</p>
+            <div class="tags"><i>.NET Core</i><i>IaC</i><i>PowerShell</i><i>Vue.js</i><i>Azure</i></div>
+          </div>
+        </li>
+        <li class="reveal">
+          <time>2022 — 2023</time>
+          <div class="card tilt">
+            <h3>DevOps Engineer <span>Bajalogics</span></h3>
+            <p>Automatización de configuración con Ansible, scripting en Python y CI/CD con Git en Azure DevOps para reducir tiempos de despliegue.</p>
+            <div class="tags"><i>Ansible</i><i>Python</i><i>Azure DevOps</i><i>Git</i></div>
+          </div>
+        </li>
+        <li class="reveal">
+          <time>2021 — 2022</time>
+          <div class="card tilt">
+            <h3>IT Junior Support Engineer <span>Bekaert Deslee</span></h3>
+            <p>Más de 700 incidentes en Jira para usuarios en México, Argentina, EE. UU. y Bélgica; inventario de 5,000+ activos en SAP con 10% de ahorro.</p>
+            <div class="tags"><i>Jira</i><i>SAP</i><i>Redes</i><i>Soporte</i></div>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="skills" class="section">
+    <div class="wrap">
+      <h2 class="title reveal"><small>03 / Stack</small>Esfera de herramientas <em>(arrastra)</em></h2>
+      <div class="skills-stage reveal">
+        <div class="sphere" id="sphere" aria-hidden="true"></div>
+        <ul class="skill-groups">
+          <li><h4>Cloud & DevOps</h4><p>Azure · AWS · Azure DevOps · Docker · GitHub Actions · Jenkins</p></li>
+          <li><h4>Automatización</h4><p>Python · PowerShell · Ansible · Puppet · YAML · Puppeteer</p></li>
+          <li><h4>Datos & Observabilidad</h4><p>Snowflake · Looker · Grafana · KQL</p></li>
+          <li><h4>Desarrollo</h4><p>TypeScript · JavaScript · C# / .NET · Vue · React · Node · Rust · Go</p></li>
+          <li><h4>Bases de datos</h4><p>PostgreSQL · MongoDB · SQL Server</p></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="wins" class="section">
+    <div class="wrap">
+      <h2 class="title reveal"><small>04 / Logros</small>Hackathons & certificaciones</h2>
+      <div class="podium">
+        <div class="step s2 reveal tilt"><em>3°</em><b>JOINTECH</b><span>2023 · 15 equipos · MERN en 24 h</span></div>
+        <div class="step s1 reveal tilt"><em>1°</em><b>Renaissance · Solana Superteam</b><span>2024 · Plataforma de juegos NFT · $60,000 MXN</span></div>
+        <div class="step s3 reveal tilt"><em>3°</em><b>BUIDL México · Solana</b><span>2024 · Líder de 5 devs · MVP en 2 días</span></div>
+      </div>
+      <div class="certs reveal">
+        <span class="badge">Microsoft Certified: Azure Fundamentals (AZ-900)</span>
+        <span class="badge">DevOps Bootcamp · ITJUANA × UC San Diego</span>
+        <span class="badge">Líder · Hyperion Devs Student Club</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects" class="section">
+    <div class="wrap">
+      <h2 class="title reveal"><small>05 / Proyectos</small>Repositorios destacados</h2>
+      <div class="projects">
+        <a class="card tilt reveal" href="https://github.com/MADGRISMAD/svelte-mas-go" target="_blank" rel="noopener"><h3>svelte-mas-go</h3><p>Experimento full-stack con Svelte y Go.</p><div class="tags"><i>Svelte</i><i>Go</i></div></a>
+        <a class="card tilt reveal" href="https://github.com/MADGRISMAD/GO-Chat" target="_blank" rel="noopener"><h3>GO-Chat</h3><p>Chat con backend en Go.</p><div class="tags"><i>Go</i><i>WebSockets</i></div></a>
+        <a class="card tilt reveal" href="https://github.com/MADGRISMAD/server" target="_blank" rel="noopener"><h3>server</h3><p>APIs y experimentación backend.</p><div class="tags"><i>Node</i><i>APIs</i></div></a>
+        <a class="card tilt reveal" href="https://github.com/MADGRISMAD/electronica-tutorias" target="_blank" rel="noopener"><h3>electronica-tutorias</h3><p>Plataforma educativa de seguimiento de tutorías con chat en vivo.</p><div class="tags"><i>MEVN</i><i>Chat</i></div></a>
+        <a class="card tilt reveal" href="https://github.com/MADGRISMAD/ILM-Wizard" target="_blank" rel="noopener"><h3>ILM-Wizard</h3><p>Herramienta con flujo tipo asistente para operaciones.</p><div class="tags"><i>UI</i><i>Workflow</i></div></a>
+        <a class="card tilt reveal" href="https://github.com/MADGRISMAD/Hype-Music" target="_blank" rel="noopener"><h3>Hype-Music</h3><p>Proyecto frontend de gran formato orientado a medios.</p><div class="tags"><i>Frontend</i><i>Media</i></div></a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact">
+    <div class="wrap center">
+      <h2 class="title reveal"><small>06 / Contacto</small>¿Automatizamos algo <em>juntos</em>?</h2>
+      <p class="reveal">Abierto a colaborar en automatización, herramientas internas, DevOps y productos frontend.</p>
+      <div class="hero-actions reveal">
+        <a class="btn primary" href="mailto:madgrismad@proton.me">madgrismad@proton.me</a>
+        <a class="btn ghost" href="https://github.com/MADGRISMAD" target="_blank" rel="noopener">GitHub</a>
+      </div>
+      <footer>© <span id="year"></span> Manuel Sabino · Hecho con Three.js y mucho café</footer>
+    </div>
+  </section>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>

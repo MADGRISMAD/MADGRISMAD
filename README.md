@@ -1,8 +1,12 @@
 <div align="center">
 
-# Manuel Sabino
+<a href="https://madgrismad.github.io/MADGRISMAD/">
+  <img src="assets/banner.svg" alt="Manuel Sabino — DevOps, AdTech Automation, Frontend" width="100%" />
+</a>
 
-### DevOps Engineer | Frontend Developer | Automation Builder
+<a href="https://madgrismad.github.io/MADGRISMAD/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Soporte+N2+%C2%B7+Kargo;DevOps+%C2%B7+Azure+%C2%B7+CI%2FCD+%C2%B7+IaC;Automatizaci%C3%B3n+AdTech+%C2%B7+VBX+%C2%B7+CTV;Hackathon+%F0%9F%A5%87+Solana+Superteam+2024" alt="Typing animation" /></a>
+
+### [✨ Ver mi portafolio interactivo en 3D →](https://madgrismad.github.io/MADGRISMAD/)
 
 I build tools that turn repetitive operations into reliable workflows: internal dashboards, API-driven automations, CI/CD pipelines, cloud infrastructure, and frontend experiences that people can actually use.
 
