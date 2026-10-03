@@ -238,8 +238,8 @@ addEventListener("resize", () => { resize(); onScroll(); });
 resize();
 
 const clock = new THREE.Clock();
-function render() {
-  const t = clock.getElapsedTime();
+function render(tOverride) {
+  const t = tOverride ?? clock.getElapsedTime();
   smoothScroll = lerp(smoothScroll, scrollY, 0.08);
   mouse.sx = lerp(mouse.sx, mouse.x, 0.05);
   mouse.sy = lerp(mouse.sy, mouse.y, 0.05);
@@ -287,5 +287,8 @@ function loop() {
   render();
   requestAnimationFrame(loop);
 }
-if (reduced) { smoothScroll = scrollY; render(); cssParallax(); addEventListener("scroll", () => { smoothScroll = scrollY; render(); }, { passive: true }); }
+if (location.search.includes("capture")) {
+  // deterministic frame stepping used to record the README animation
+  window.__frame = (t, mx, my, sy) => { mouse.sx = mouse.x = mx; mouse.sy = mouse.y = my; smoothScroll = scrollY = sy; render(t); };
+} else if (reduced) { smoothScroll = scrollY; render(); cssParallax(); addEventListener("scroll", () => { smoothScroll = scrollY; render(); }, { passive: true }); }
 else loop();

@@ -1,12 +1,8 @@
 <div align="center">
 
-<a href="https://madgrismad.github.io/MADGRISMAD/">
-  <img src="assets/banner.svg" alt="Manuel Sabino — DevOps, AdTech Automation, Frontend" width="100%" />
-</a>
+<img src="assets/hero-3d.gif" alt="Manuel Sabino — escena 3D animada: DevOps, AdTech Automation, Frontend" width="100%" />
 
-<a href="https://madgrismad.github.io/MADGRISMAD/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Soporte+N2+%C2%B7+Kargo;DevOps+%C2%B7+Azure+%C2%B7+CI%2FCD+%C2%B7+IaC;Automatizaci%C3%B3n+AdTech+%C2%B7+VBX+%C2%B7+CTV;Hackathon+%F0%9F%A5%87+Solana+Superteam+2024" alt="Typing animation" /></a>
-
-### [✨ Ver mi portafolio interactivo en 3D →](https://madgrismad.github.io/MADGRISMAD/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Soporte+N2+%C2%B7+Kargo;DevOps+%C2%B7+Azure+%C2%B7+CI%2FCD+%C2%B7+IaC;Automatizaci%C3%B3n+AdTech+%C2%B7+VBX+%C2%B7+CTV;Hackathon+%F0%9F%A5%87+Solana+Superteam+2024" alt="Typing animation" />
 
 I build tools that turn repetitive operations into reliable workflows: internal dashboards, API-driven automations, CI/CD pipelines, cloud infrastructure, and frontend experiences that people can actually use.
 
@@ -15,7 +11,7 @@ I build tools that turn repetitive operations into reliable workflows: internal 
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" height="60" alt="" />
 
 ## What I Do
 
@@ -37,6 +33,10 @@ The kind of work I enjoy most:
 - Keeping tooling simple enough that non-engineers can run it safely.
 
 ## Tech Stack
+
+<div align="center">
+  <img src="assets/skills-orbit.svg" alt="Órbita animada de tecnologías" width="100%" />
+</div>
 
 ### Languages
 
@@ -71,6 +71,8 @@ The kind of work I enjoy most:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<img src="assets/divider.svg" width="100%" height="60" alt="" />
+
 ## Engineering Strengths
 
 | Area | What I care about |
@@ -100,6 +102,8 @@ The kind of work I enjoy most:
 | [ILM-Wizard](https://github.com/MADGRISMAD/ILM-Wizard) | Tooling/UI project with wizard-style workflow thinking. |
 | [Hype-Music](https://github.com/MADGRISMAD/Hype-Music) | Larger frontend/media project with product-style structure. |
 
+<img src="assets/divider.svg" width="100%" height="60" alt="" />
+
 ## Hackathon Results
 
 - 1st place: **RENAISSANCE: Solana Superteam Hackathon 2024**
@@ -117,12 +121,15 @@ The kind of work I enjoy most:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MADGRISMAD&theme=material-palenight&hide_border=true&background=FFFFFF00" alt="GitHub streak" />
 </div>
 
+<img src="assets/divider.svg" width="100%" height="60" alt="" />
+
 ## Contact
 
 I am open to collaborating on automation, internal tools, DevOps workflows, frontend products, and performance-focused systems.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-3D_interactivo-a78bfa?style=for-the-badge&logo=threedotjs&logoColor=white)](https://madgrismad.github.io/MADGRISMAD/)
 [![Email](https://img.shields.io/badge/Email-madgrismad%40proton.me-7c3aed?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:madgrismad@proton.me)
 [![GitHub](https://img.shields.io/badge/GitHub-MADGRISMAD-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MADGRISMAD)
 
