@@ -114,7 +114,7 @@ The kind of work I enjoy most:
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MADGRISMAD&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css,php" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MADGRISMAD&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=12&hide=jupyter%20notebook,tex,css,php" alt="Top languages" />
 </div>
 
 <div align="center">
